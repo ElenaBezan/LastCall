@@ -366,11 +366,11 @@ function SingleOrder() {
 												<b>{order.seller.title}</b>
 											</Typography>
 											<Typography sx={{ mb: 1 }}>
-												{order.seller?.address}
+												{order.seller.address}
 											</Typography>
 											<Typography>
-												{order.seller?.city},{' '}
-												{order.seller?.country}
+												{order.seller.city},{' '}
+												{order.seller.country}
 											</Typography>
 										</Grid>
 										<Grid item xs={12} sm={6}>
@@ -398,11 +398,11 @@ function SingleOrder() {
 														}}
 													/>
 													<Link
-														href={`mailto:${order.seller?.email}`}
+														href={`mailto:${order.seller.email}`}
 														color="inherit"
 														underline="none"
 													>
-														{order.seller?.email}
+														{order.seller.email}
 													</Link>
 												</Typography>
 											</Grid>
@@ -424,17 +424,17 @@ function SingleOrder() {
 														}}
 													/>
 													<Link
-														href={`tel:${order.seller?.phone}`}
+														href={`tel:${order.seller.phone}`}
 														color="inherit"
 														underline="none"
 													>
-														{order.seller?.phone}
+														{order.seller.phone}
 													</Link>
 												</Typography>
 											</Grid>
 											<Grid item>
 												<Link
-													href={order.seller?.website}
+													href={order.seller.website}
 													underline="none"
 												>
 													<Typography
@@ -453,7 +453,7 @@ function SingleOrder() {
 																	'0.5rem',
 															}}
 														/>
-														{order.seller?.website}
+														{order.seller.website}
 													</Typography>
 												</Link>
 											</Grid>

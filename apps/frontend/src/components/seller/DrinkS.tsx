@@ -145,6 +145,7 @@ const DrinkS: React.FC<DrinkProps> = ({
 				const response = await api.get(`/products/${productId}`);
 				setSelectedDrink(response.data);
 			} catch (error) {
+				setError("Couldn't fetch product");
 				throw error;
 			}
 		};
