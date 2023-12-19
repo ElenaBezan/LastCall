@@ -1,0 +1,205 @@
+"filename", "language", "JSON", "JSON with Comments", "TypeScript", "Markdown", "TypeScript JSX", "JavaScript", "CSS", "XML", "Docker", "YAML", "HTML", "comment", "blank", "total"
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\.eslintrc.js", "JavaScript", 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\.prettierrc", "JSON", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 11, 8, 28
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\README.md", "Markdown", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\compose.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 1, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\constants.js", "JavaScript", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\nest-cli.json", "JSON", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\package.json", "JSON", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 75
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app.controller.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app.module.ts", "TypeScript", 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 10, 3, 67
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app.service.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\authentication\authentication.controller.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\authentication\authentication.module.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 18
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\authentication\authentication.repository.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\authentication\authentication.service.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyer.mapper.spec.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyer.mapper.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyer.mock.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 37
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyers.controller.ts", "TypeScript", 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 76
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyers.model.ts", "TypeScript", 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 47
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyers.module.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 29
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyers.repository.ts", "TypeScript", 0, 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 103
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\buyers.service.ts", "TypeScript", 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 117
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\buyers\create-update-buyer.dto.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\cart\cart.controller.ts", "TypeScript", 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 73
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\cart\cart.module.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 33
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\cart\cart.service.ts", "TypeScript", 0, 0, 159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 196
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\distance\distance.controller.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 37
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\distance\distance.module.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 37
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\distance\distance.service.ts", "TypeScript", 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 53
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\guards\firebase-token-guard.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 28
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\mailer\mail.controller.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\mailer\mail.module.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\mailer\mail.service.ts", "TypeScript", 0, 0, 396, 0, 0, 0, 0, 0, 0, 0, 0, 9, 18, 423
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\middleware\firebase-auth.middleware.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 31
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\create-update-order.dto.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\order-status.enum.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\order.mapper.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\order.model.ts", "TypeScript", 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 48
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\orders.controller.ts", "TypeScript", 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 76
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\orders.module.ts", "TypeScript", 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 43
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\orders.repository.ts", "TypeScript", 0, 0, 104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 117
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\orders\orders.service.ts", "TypeScript", 0, 0, 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 129
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\create-update-product.dto.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\product-category.enum.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\product.mapper.spec.ts", "TypeScript", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 48
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\product.mapper.ts", "TypeScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\product.model.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 36
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\products.controller.ts", "TypeScript", 0, 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 90
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\products.module.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\products.repository.ts", "TypeScript", 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 87
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\products\products.service.ts", "TypeScript", 0, 0, 123, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 150
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\create-update-rating.dto.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.controller.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 69
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.mapper.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.model.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 39
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.module.ts", "TypeScript", 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 46
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.repository.ts", "TypeScript", 0, 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 103
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\rating\rating.service.ts", "TypeScript", 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 90
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\create-update-seller.dto.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\seller-type.enum.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\seller.mapper.spec.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\seller.mapper.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\seller.mock.ts", "TypeScript", 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 47
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\sellers.controller.ts", "TypeScript", 0, 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 114
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\sellers.model.ts", "TypeScript", 0, 0, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 55
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\sellers.module.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\sellers.repository.ts", "TypeScript", 0, 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 109
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\sellers\sellers.service.ts", "TypeScript", 0, 0, 134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 155
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\utils\format-date.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 19
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\app\utils\format-date.utils.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\data.response.ts", "TypeScript", 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 101
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\firebase-admin.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\src\main.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\test\app.e2e-spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\test\jest-e2e.json", "JSON", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\tsconfig.build.json", "JSON", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\tsconfig.json", "JSON with Comments", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\fastify-server\vercel.json", "JSON", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 12, 11, 38
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\firebase.json", "JSON", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 13
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\package.json", "JSON", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 76
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 24, 1, 45
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\App.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 3, 2, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\App.tsx", "TypeScript JSX", 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 15, 4, 38
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\assets\icons\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\assets\styles\buyer.css", "CSS", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\assets\styles\index.css", "CSS", 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 6, 32
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\assets\styles\styles.ts", "TypeScript", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\404\Page404.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 10, 51
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\404\Page404.tsx", "TypeScript JSX", 0, 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 5, 91
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\404\Unauthorized.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 17, 81
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\404\Unauthorized.tsx", "TypeScript JSX", 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 4, 84
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Buyer.tsx", "TypeScript JSX", 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 1, 5, 36
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Cart.tsx", "TypeScript JSX", 0, 0, 0, 0, 761, 0, 0, 0, 0, 0, 0, 8, 23, 792
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\DrinkB.tsx", "TypeScript JSX", 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 5, 51
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\HeroB.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\HeroB.tsx", "TypeScript JSX", 0, 0, 0, 0, 117, 0, 0, 0, 0, 0, 0, 0, 7, 124
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\NavbarB.tsx", "TypeScript JSX", 0, 0, 0, 0, 287, 0, 0, 0, 0, 0, 0, 5, 9, 301
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Order.tsx", "TypeScript JSX", 0, 0, 0, 0, 310, 0, 0, 0, 0, 0, 0, 2, 7, 319
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\PastOrders.tsx", "TypeScript JSX", 0, 0, 0, 0, 85, 0, 0, 0, 0, 0, 0, 0, 6, 91
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Product.tsx", "TypeScript JSX", 0, 0, 0, 0, 395, 0, 0, 0, 0, 0, 0, 0, 8, 403
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\ProductsB.tsx", "TypeScript JSX", 0, 0, 0, 0, 140, 0, 0, 0, 0, 0, 0, 2, 7, 149
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\SearchProductsInput.tsx", "TypeScript JSX", 0, 0, 0, 0, 68, 0, 0, 0, 0, 0, 0, 7, 5, 80
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\SearchSuppliersInput.tsx", "TypeScript JSX", 0, 0, 0, 0, 75, 0, 0, 0, 0, 0, 0, 1, 5, 81
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\SingleOrder.tsx", "TypeScript JSX", 0, 0, 0, 0, 464, 0, 0, 0, 0, 0, 0, 0, 9, 473
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Supplier.tsx", "TypeScript JSX", 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 6, 87
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\Suppliers.tsx", "TypeScript JSX", 0, 0, 0, 0, 248, 0, 0, 0, 0, 0, 0, 11, 16, 275
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\login\SignInB.tsx", "TypeScript JSX", 0, 0, 0, 0, 269, 0, 0, 0, 0, 0, 0, 8, 9, 286
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\login\SignInPage.tsx", "TypeScript JSX", 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\login\SignUpB.tsx", "TypeScript JSX", 0, 0, 0, 0, 361, 0, 0, 0, 0, 0, 0, 7, 12, 380
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\buyer\login\SignUpPage.tsx", "TypeScript JSX", 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\core\Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 134, 0, 0, 0, 0, 0, 0, 0, 8, 142
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\core\Layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 3, 3, 17
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\homepage\Homepage.tsx", "TypeScript JSX", 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 3, 70
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\homepage\Navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 8, 157
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\routing\BuyerProtectedRoute.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 2, 13, 91
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\routing\BuyerProtectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 2, 6, 29
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\routing\Routing.tsx", "TypeScript JSX", 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 57, 1, 105
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\routing\SellerProtectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 2, 6, 29
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\DrinkS.tsx", "TypeScript JSX", 0, 0, 0, 0, 414, 0, 0, 0, 0, 0, 0, 3, 13, 430
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\EditSellerProfile.tsx", "TypeScript JSX", 0, 0, 0, 0, 525, 0, 0, 0, 0, 0, 0, 0, 12, 537
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\HeroS.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\HeroS.tsx", "TypeScript JSX", 0, 0, 0, 0, 117, 0, 0, 0, 0, 0, 0, 0, 7, 124
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\NavbarS.tsx", "TypeScript JSX", 0, 0, 0, 0, 280, 0, 0, 0, 0, 0, 0, 4, 10, 294
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\ProductsS.tsx", "TypeScript JSX", 0, 0, 0, 0, 351, 0, 0, 0, 0, 0, 0, 2, 12, 365
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\Sales.tsx", "TypeScript JSX", 0, 0, 0, 0, 364, 0, 0, 0, 0, 0, 0, 8, 11, 383
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\SearchOrdersInput.tsx", "TypeScript JSX", 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 4, 48
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\Seller.tsx", "TypeScript JSX", 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\SellerPage.tsx", "TypeScript JSX", 0, 0, 0, 0, 399, 0, 0, 0, 0, 0, 0, 0, 13, 412
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\SellerProducts.tsx", "TypeScript JSX", 0, 0, 0, 0, 118, 0, 0, 0, 0, 0, 0, 1, 7, 126
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\SellersOrderPage.tsx", "TypeScript JSX", 0, 0, 0, 0, 734, 0, 0, 0, 0, 0, 0, 1, 12, 747
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\login\SignInS.tsx", "TypeScript JSX", 0, 0, 0, 0, 272, 0, 0, 0, 0, 0, 0, 3, 9, 284
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\seller\login\SignUpS.tsx", "TypeScript JSX", 0, 0, 0, 0, 480, 0, 0, 0, 0, 0, 0, 7, 12, 499
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\CustomBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\CustomButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 4, 52
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\CustomContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\DrinkContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\FooterLink.tsx", "TypeScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\HouseBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\Image.tsx", "TypeScript JSX", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\ImgContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 1, 3, 13
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\InfoBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\PropertiesBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\PropertiesTextBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\SellerContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\components\ui\Title.tsx", "TypeScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\constants\marketConstants.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\context\AuthContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 183, 0, 0, 0, 0, 0, 0, 32, 16, 231
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\context\CartContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0, 9, 71
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\enums\order.enum.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\enums\product.enum.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\enums\seller.enum.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\firebase.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 27
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 4, 5, 22
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\mobx-store\doubler.store.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 14, 10, 47
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\mobx-store\index.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\mobx-store\store.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 16
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\buyer.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\cartItem.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\drink.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 16
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\order.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\rating.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\models\seller.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\pages\Page1.tsx", "TypeScript JSX", 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 5, 50
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\pages\Page2.tsx", "TypeScript JSX", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 6
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\pages\Page404.tsx", "TypeScript JSX", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\redux-store\bankInfo.slice.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 42
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\redux-store\hooks.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 9
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\redux-store\index.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\redux-store\store.ts", "TypeScript", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 45
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\redux-store\types.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 6
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\reportWebVitals.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\services\api.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\setupTests.ts", "TypeScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\shared\Loading.tsx", "TypeScript JSX", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 6
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\shared\index.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\formatDate.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\getCurrentDate.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\getDiscountColor.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\getOrderStatusColor.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\groupProductsBySeller.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\isProductInArray.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\sumOfPrices.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\formatDate.test.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\getCurrentDate.test.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\getDiscountColor.test.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\getOrderStatusColor.test.ts", "TypeScript", 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 34
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\groupProductsBySeller.test.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 22
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\isProductInArray.test.ts", "TypeScript", 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 44
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\mocks\buyer.mock.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 36
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\mocks\drink.mock.ts", "TypeScript", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 47
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\mocks\seller.mock.ts", "TypeScript", 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 50
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\src\utils\test\sumOfPrices.test.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 40
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\add_discount.js", "JavaScript", 0, 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 1, 13, 45
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\buyer_login.js", "JavaScript", 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 1, 9, 28
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\filter_order.js", "JavaScript", 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 0, 1, 8, 34
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\filter_products.js", "JavaScript", 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 7, 27
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\remove_from_cart.js", "JavaScript", 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 17, 8, 38
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tests\seller_login.js", "JavaScript", 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 1, 6, 25
+"d:\FERI\3. letnik\5. semester\ZK\LastCall\apps\frontend\tsconfig.json", "JSON with Comments", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"Total", "-", 215, 28, 3857, 1, 9206, 153, 29, 1, 24, 8, 20, 336, 1043, 14921

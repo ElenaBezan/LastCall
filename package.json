@@ -1,0 +1,52 @@
+{
+	"name": "lastcall",
+	"author": "",
+	"version": "1.0.0",
+	"private": true,
+	"workspaces": [
+		"apps/*",
+		"packages/*"
+	],
+	"scripts": {
+		"prepare": "husky install",
+		"build:lib": "yarn workspace @core/lib build:lib",
+		"dev": "turbo run dev --parallel --no-cache",
+		"build": "turbo run build",
+		"frontend": "yarn workspace frontend dev",
+		"frontend:build": "yarn workspace frontend build",
+		"fastify-server": "yarn workspace fastify-server dev",
+		"fastify-server:build": "yarn workspace fastify-server build",
+		"test": "turbo run test",
+		"prettier": "prettier --write *"
+	},
+	"devDependencies": {
+		"@types/fastify-multipart": "^0.7.0",
+		"@types/got": "^9.6.12",
+		"@types/multer": "^1.4.7",
+		"@wdio/cli": "^8.24.1",
+		"chromedriver": "^119.0.1",
+		"husky": "^8.0.1",
+		"lint-staged": "^13.0.3",
+		"mocha": "^10.2.0",
+		"prettier": "^2.7.1",
+		"ts-mockery": "^1.2.0",
+		"ts-node": "^10.9.1",
+		"turbo": "^1.4.3",
+		"webdriverio": "^8.24.1"
+	},
+	"lint-staged": {
+		"**/*": "prettier --write --ignore-unknown"
+	},
+	"packageManager": "yarn@3.5.1",
+	"dependencies": {
+		"@fastify/multipart": "^7.6.0",
+		"@webundsoehne/nest-fastify-file-upload": "^2.1.0",
+		"fastify-multipart": "^5.4.0",
+		"got": "^13.0.0",
+		"mongoose": "^7.1.1",
+		"multer": "^1.4.5-lts.1",
+		"node-fetch": "^3.3.1",
+		"selenium-webdriver": "^4.15.0",
+		"uuid": "^9.0.0"
+	}
+}
